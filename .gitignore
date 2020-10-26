@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/tinder-backed/node_modules
 # testing
 /coverage
 
